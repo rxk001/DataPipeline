@@ -34,5 +34,7 @@ To get this repo running:
 
 To run different pipeline just create new pipeline_<>.py
 
+Delete db.sqlite if want to re-test.
+
 To run part of the pipeline just modify pipeline list in pipeline.py and specify args: run_flag and run_id.
 These parameters used to validate runs to avoid duplicate submission and allows ro run different input files.
