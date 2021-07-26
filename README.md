@@ -17,7 +17,7 @@ This repo contains the code for creating a data pipeline to calculate metrics fo
 To get this repo running:
 
 * Install Python 3
-* Unzip attached file
+* Unzip DataPipeline.zip
 * Get into the folder with: `cd DataPipeline`
 * Create a virtual environment with: `python -m venv ./venv`
 * Install the requirements with `pip install -r requirements.txt`
