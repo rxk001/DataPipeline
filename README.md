@@ -1,4 +1,4 @@
-# Compaign Pipeline
+# Data Pipeline
 
 This repo contains the code for creating a data pipeline to calculate metrics for a compaign:
 
